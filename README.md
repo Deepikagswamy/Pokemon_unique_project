@@ -20,7 +20,6 @@ Before start working on this project, your local environment should have followi
 
 ## Project Setup
 Follow the steps to setup this project on your local environment - 
-* Clone repository - `https://github.com/abhishekk-raj/Pokedex.git`
 * Goto project directory - `cd Pokedex`
 * Install dependencies - `yarn`
 
